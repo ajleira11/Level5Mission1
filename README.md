@@ -5,7 +5,7 @@ This mission/project focuses on creating API and testing the services provided b
 ## Installation
 
 - `git clone` the repo https://github.com/ajleira11/Level5Mission1.git on your vs code terminal
-- `npm i`` or npm install just in case you are missing some packages or libraries
+- `npm i` or npm install just in case you are missing some packages or libraries
 - make sure that there is no other file running on localhost:4000 to make it work
 
 ## Usage
