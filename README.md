@@ -4,9 +4,15 @@ This mission/project focuses on creating API and testing the services provided b
 
 ## Installation
 
-- `git clone` the repo https://github.com/ajleira11/Level5Mission1.git on your vs code terminal
-- `npm i` or npm install just in case you are missing some packages or libraries
-- make sure that there is no other file running on localhost:4000 to make it work
+1. Clone the repo
+   ```sh
+   git clone https://github.com/ajleira11/Level5Mission1.gi
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. make sure that there is no other file running on localhost:4000 to make it work
 
 ## Usage
 
@@ -21,3 +27,11 @@ This mission/project focuses on creating API and testing the services provided b
 [![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+
+## Contact
+
+Ariel- [@ajleira](https://www.instagram.com/ajleira//)
+
+Project Link: [https://github.com/ajleira11/Level5Mission1](https://github.com/ajleira11/Level5Mission1)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
