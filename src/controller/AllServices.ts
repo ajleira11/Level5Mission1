@@ -30,15 +30,12 @@ export const carValue = (model: string, year: number) => {
 
   // Convert the model to uppercase
   const uppercasedModel: string = model.toUpperCase();
-
   // Remove spaces and any other characters that are not uppercase letters
   const cleanedModel: string = uppercasedModel.replace(/[^A-Z]/g, "");
-
   // Calculate the Car_value by summing the positions of alphabets, multiplying by 100, and adding the year value
   interface CarValue {
     carValue: number;
   }
-
   let carValue1: CarValue = {
     carValue: 0,
   };
