@@ -6,7 +6,7 @@ This mission/project focuses on creating API and testing the services provided b
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ajleira11/Level5Mission1.gi
+   git clone https://github.com/ajleira11/Level5Mission1.git
    ```
 2. Install NPM packages
    ```sh
