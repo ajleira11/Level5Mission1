@@ -33,5 +33,3 @@ This mission/project focuses on creating API and testing the services provided b
 Ariel- [@ajleira](https://www.instagram.com/ajleira//)
 
 Project Link: [https://github.com/ajleira11/Level5Mission1](https://github.com/ajleira11/Level5Mission1)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
