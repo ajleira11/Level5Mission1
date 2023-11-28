@@ -7,7 +7,7 @@
     "dev": "tsnd src/server.ts",
     "test": "jest --coverage",
     "build": "tsc",
-    "start": "npm run build && node build/server.js"
+    "start": "node dist/index.js"
   },
   "keywords": [],
   "author": "",
