@@ -18,7 +18,7 @@ This mission/project focuses on creating API and testing the services provided b
 
 - `npm run dev` - this will run your server at localhost:4000 which is the default on my code
 - you can use the api directly in your postman where you need to input some data as JSON format.
-- in API 1 you need to input the following on your postman under body as a json {"model": string, "year": number}
+- in API 1 you need to input the following on your postman under body as a json {"model": string, "year": number}.
 - same as API 2 you just need to change the input as {"claim_history": string};
 
 ### Built With
