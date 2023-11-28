@@ -6,6 +6,10 @@ env.config();
 const server = express();
 server.use(express.json());
 
+server.get("/", (req, res) => {
+  res.send(`<h1>Working</h1>`);
+});
+
 server.post("/api/carValue", (req, res) => {
   const model: string = req.body.model;
   const year: number = req.body.year || 0;
