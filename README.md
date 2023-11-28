@@ -1,6 +1,6 @@
 # Mission 1
 
-This mission/project focuses on creating API and testing the services provided by the API called functions
+This mission/project focuses on creating API and testing the services provided by the API called functions.
 
 ## Installation
 
